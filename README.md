@@ -2,10 +2,13 @@
 
 # 👋 Hi, I'm Rajat Kumar
 
-💻 **Full Stack Developer** at **AGR Informatics**  
-🚀 Passionate about creating efficient, scalable, and user-friendly web applications  
-🎯 Skilled in **MERN Stack (MongoDB, Express.js, React, Node.js)**  
-🌱 Continuously learning new technologies to build smarter solutions  
+💻 **Full Stack Developer | SEO & Web Developer**  
+🏢 Currently working at **Absolute Assets** as **Digital Marketing Executive (SEO & Web Developer)**  
+🚀 Building high-performance websites while improving search visibility through Technical, On-Page, and Off-Page SEO  
+🎯 Skilled in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, **WordPress**, **SEO**, and **Web Performance Optimization**  
+📈 Experienced in developing web applications, optimizing website rankings, and driving organic traffic growth  
+🌱 Currently learning **Next.js**, **TypeScript**, **PostgreSQL**, and modern cloud technologies  
+⚡ Passionate about creating scalable, user-friendly, and business-focused digital solutions
 
 ---
 
