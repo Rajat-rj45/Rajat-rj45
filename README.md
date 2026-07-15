@@ -13,7 +13,7 @@
 ---
 
 ### 🧠 About Me
-- 🏢 Currently working as a **Full Stack Developer** at **AGR Informatics**  
+- 🏢 Currently working as a **Full Stack Developer** at **Absolute Assets**  
 - 💡 I love solving complex problems and writing clean, maintainable code  
 - 🔭 Exploring **Next.js**, **TypeScript**, and **DevOps tools**  
 - 💬 Ask me about **React**, **Node.js**, **MongoDB**, or **API integrations**  
