@@ -115,7 +115,7 @@ and an administrative content management system.
 
 **Stack:** Next.js · TypeScript · Tailwind CSS · PostgreSQL · Prisma · Auth.js
 
-[![View Website](https://img.shields.io/badge/View_Website-Absolute_Assets-0284C7?style=for-the-badge)](https://absoluteassets.in/)
+<a href="https://absoluteassets.in/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Website-Absolute_Assets-0284C7?style=for-the-badge" alt="View Absolute Assets Website"></a>
 
 ---
 
@@ -133,7 +133,7 @@ through dedicated pages and consistent navigation.
 
 **Focus:** Website Development · Responsive UI · Project Architecture · Form Integration
 
-[![View Website](https://img.shields.io/badge/View_Website-JR_Real_Buildwell-0284C7?style=for-the-badge)](https://jrrealbuildwell.com/)
+<a href="https://jrrealbuildwell.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Website-JR_Real_Buildwell-0284C7?style=for-the-badge" alt="View JR Real Buildwell Website"></a>
 
 ---
 
@@ -152,18 +152,18 @@ an Insights section and enquiry features.
 
 **Focus:** HTML · CSS · JavaScript · Technical SEO · Content Architecture
 
-[![View Website](https://img.shields.io/badge/View_Website-AQVA_The_Reserve-0284C7?style=for-the-badge)](https://aqvathereserve.com/)
+<a href="https://aqvathereserve.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Website-AQVA_The_Reserve-0284C7?style=for-the-badge" alt="View AQVA The Reserve Website"></a>
 
 ---
 
 ### 04 · Godrej Verano
-**Residential Project Website**
+**Premium Residential Project Website · Sector 63A, Gurugram**
 
-A website project for presenting Godrej Verano and its residential offering.
+A premium residential project website built to present **Godrej Verano** through a structured, visual and enquiry-focused user experience. The page organizes the project story around low-density planning, spacious residences, lifestyle amenities, floor plans and location connectivity.
 
-**Category:** Real Estate · Project Showcase
+**Focus:** Responsive Web Design · Project Storytelling · Floor Plans · Amenities · Lead Generation · Mobile UX
 
-<!-- Add the verified live website URL here. -->
+<a href="https://jrrealbuildwell.com/projects/godrej-verano/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Project-Godrej_Verano-0284C7?style=for-the-badge" alt="View Godrej Verano Project"></a>
 
 ---
 
@@ -182,29 +182,29 @@ bringing project information and enquiry options into one experience.
 
 **Focus:** HTML · CSS · JavaScript · Mobile UX · Enquiry Flows
 
-[![View Project](https://img.shields.io/badge/View_Project-Cocoa_County-0284C7?style=for-the-badge)](https://jrrealbuildwell.com/projects/cocoa-county/)
+<a href="https://jrrealbuildwell.com/projects/cocoa-county/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Project-Cocoa_County-0284C7?style=for-the-badge" alt="View Cocoa County Project"></a>
 
 ---
 
-### 06 · Experion
-**Residential Project Website**
+### 06 · Experion Sector 88A
+**Luxury Residential Project Website · Sector 88A, Gurugram**
 
-A website project for presenting Experion's residential offering.
+A detailed residential project website created for **Experion Sector 88A**, focused on premium large-format homes, landscaped living and strong New Gurugram connectivity. The page combines project discovery, lifestyle presentation and lead-generation features in one responsive experience.
 
-**Category:** Real Estate · Project Showcase
+**Focus:** HTML · CSS · JavaScript · Responsive UI · Real Estate UX · Technical SEO · Lead Generation
 
-<!-- Add the verified live website URL here. -->
+<a href="https://jrrealbuildwell.com/projects/experion-sector-88a/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Project-Experion_Sector_88A-0284C7?style=for-the-badge" alt="View Experion Sector 88A Project"></a>
 
 ---
 
 ### 07 · Preleased Properties
-**Property Website**
+**Commercial Real Estate Investment Landing Page**
 
-A website project focused on preleased properties.
+A conversion-focused website experience for **pre-leased commercial properties in Gurgaon**, designed to help investors explore income-producing retail, food-court and office-space opportunities while understanding tenant, lease and return-related information.
 
-**Category:** Real Estate · Preleased Properties
+**Focus:** Commercial Real Estate · Conversion UX · ROI Calculator · Lead Forms · Responsive Design · Investment Landing Page
 
-<!-- Add the verified live website URL here. -->
+<a href="https://jrrealbuildwell.com/projects/preleased-properties/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Project-Preleased_Properties-0284C7?style=for-the-badge" alt="View Preleased Properties"></a>
 
 ## 💼 Professional Experience
 
