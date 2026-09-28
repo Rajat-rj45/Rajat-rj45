@@ -1,67 +1,255 @@
-<!-- Rajat Kumar - GitHub Profile README -->
+<!-- Rajat Kumar | GitHub Profile -->
 
-# 👋 Hi, I'm Rajat Kumar
+<div align="center">
 
-💻 **Full Stack Developer | SEO & Web Developer**  
-🏢 Currently working at **Absolute Assets** as **Digital Marketing Executive (SEO & Web Developer)**  
-🚀 Building high-performance websites while improving search visibility through Technical, On-Page, and Off-Page SEO  
-🎯 Skilled in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, **WordPress**, **SEO**, and **Web Performance Optimization**  
-📈 Experienced in developing web applications, optimizing website rankings, and driving organic traffic growth  
-🌱 Currently learning **Next.js**, **TypeScript**, **PostgreSQL**, and modern cloud technologies  
-⚡ Passionate about creating scalable, user-friendly, and business-focused digital solutions
+# Hi, I'm Rajat Kumar 👋
 
----
+### Full Stack Web Developer • Next.js & MERN • Technical SEO
 
-### 🧠 About Me
-- 🏢 Currently working as a **Full Stack Developer** at **Absolute Assets**  
-- 💡 I love solving complex problems and writing clean, maintainable code  
-- 🔭 Exploring **Next.js**, **TypeScript**, and **DevOps tools**  
-- 💬 Ask me about **React**, **Node.js**, **MongoDB**, or **API integrations**  
-- ⚡ Fun fact: I debug faster when I’m listening to Lo-Fi beats 🎧  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=65&lines=Building+Websites+That+Work;Next.js+%7C+React+%7C+Node.js;Custom+CMS+%26+Real+Estate+Platforms;Technical+SEO+%26+Web+Performance" alt="Animated introduction: web development, Next.js, custom CMS and technical SEO" />
+
+I build responsive websites, full-stack applications and custom CMS platforms,
+with a focus on usability, search visibility and lead generation.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rajat-kumar-5b2504376)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatsuryavanshi404@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Rajat--rj45-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajat-rj45)
+
+</div>
 
 ---
 
-### 🧰 Tech Stack
+## 👨‍💻 About Me
 
-#### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+I'm a web developer working across frontend development, backend systems,
+technical SEO and website deployment.
 
-#### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+At **Absolute Assets**, I work as a
+**Digital Marketing Executive (SEO & Web Developer)**, building and maintaining
+real estate websites and improving their content, functionality and search readiness.
 
-#### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### 🧩 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 💻 Build applications using **Next.js, TypeScript, React.js and Node.js**.
+- 🗄️ Develop CMS features using **PostgreSQL and Prisma**.
+- 🏡 Create real estate project websites, property listings and landing pages.
+- 🔎 Implement technical SEO, structured content and internal linking.
+- ⚙️ Deploy and maintain applications using **Ubuntu, Nginx and PM2**.
+- 📱 Build responsive interfaces with clear navigation and enquiry flows.
+- 🎓 Hold a **Master of Computer Applications** degree.
 
 ---
 
-### 🚀 Featured Projects
-- 🧠 [AI Knowledge App](https://github.com/Rajat-rj45/ai-knowledge-app) – A web app using OpenAI API for smart content generation  
-- 🛒 [E-Commerce Platform](https://github.com/Rajat-rj45/ecommerce-app) – MERN-based e-commerce app with authentication & cart  
-- 💬 [Chat Application](https://github.com/Rajat-rj45/chat-app) – Real-time chat using Socket.io and MongoDB  
+## 🧰 Technology Stack
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+### Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge)
+
+### Deployment & Tools
+
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![Nginx](https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639)
+![PM2](https://img.shields.io/badge/PM2-111827?style=for-the-badge&logo=pm2&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-111827?style=for-the-badge&logo=wordpress&logoColor=21759B)
+
+### SEO & Website Optimization
+
+![Technical SEO](https://img.shields.io/badge/Technical_SEO-16354A?style=for-the-badge)
+![On Page SEO](https://img.shields.io/badge/On_Page_SEO-16354A?style=for-the-badge)
+![Search Console](https://img.shields.io/badge/Google_Search_Console-16354A?style=for-the-badge)
+![Structured Data](https://img.shields.io/badge/Structured_Data-16354A?style=for-the-badge)
+![Image Optimization](https://img.shields.io/badge/Image_Optimization-16354A?style=for-the-badge)
 
 ---
 
-### 📊 GitHub Analytics
-![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajat-rj45&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat-rj45&layout=compact&theme=radical)
+## ⚡ What I Work On
+
+| Area | My Work |
+| :--- | :--- |
+| **Full-Stack Development** | Next.js applications, REST APIs, database integration and authentication |
+| **Custom CMS** | Property management, blog publishing, media uploads and editable SEO fields |
+| **Real Estate Websites** | Project pages, property listings, floor plans, galleries and location sections |
+| **Lead Generation Features** | Enquiry forms, brochure requests, WhatsApp CTAs and thank-you pages |
+| **Technical SEO** | Canonicals, XML sitemaps, structured data, metadata and crawlability |
+| **Content Architecture** | Insights sections, keyword mapping, topic clusters and internal linking |
+| **Performance** | WebP image processing, responsive images and loading improvements |
+| **Deployment** | Ubuntu VPS configuration, Nginx, PM2 and production troubleshooting |
 
 ---
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](YOUR-PORTFOLIO-LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+## 🚀 Featured Projects
+
+### 🏢 Absolute Assets — Real Estate Platform & CMS
+
+A full-stack real estate website with property discovery,
+project information, Insights content and an administrative CMS.
+
+**My contributions:**
+
+- Developed responsive property listings and project detail pages.
+- Built CMS workflows for properties, blogs, media and enquiries.
+- Added rich-text editors for property and blog content.
+- Implemented property subcategories, FAQs, search and filtering.
+- Added SEO tag management and editable content fields.
+- Worked with PostgreSQL, Prisma and database migrations.
+- Implemented local image uploads with Sharp-based WebP processing.
+- Managed deployment and troubleshooting on an Ubuntu VPS.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · PostgreSQL · Prisma · Auth.js · Nginx · PM2
+
+[![View Website](https://img.shields.io/badge/View_Website-Absolute_Assets-0284C7?style=for-the-badge)](https://absoluteassets.in/)
 
 ---
 
-⭐ From [Rajat Kumar](https://github.com/Rajat-rj45)
+### 🌿 AQVA The Reserve — Project Website & SEO
+
+A residential plotted-development website with project information,
+enquiry features and an Insights section.
+
+**My contributions:**
+
+- Developed responsive landing-page sections and a hero slider.
+- Added enquiry popups, WhatsApp CTAs and a thank-you page.
+- Created Insights pages with consistent navigation and styling.
+- Organized content around relevant search topics and keyword groups.
+- Implemented internal links, metadata, canonicals and sitemap updates.
+- Improved image delivery and mobile presentation.
+
+**Focus:** HTML · CSS · JavaScript · Responsive Design · Technical SEO · Content Architecture
+
+[![View Website](https://img.shields.io/badge/View_Website-AQVA_The_Reserve-0284C7?style=for-the-badge)](https://aqvathereserve.com/)
+
+---
+
+### 🏙️ L&T Sector 86 Gurgaon — Project Website & Insights
+
+A real estate project website combining project information,
+enquiry features and educational content.
+
+**My contributions:**
+
+- Developed and updated project content and responsive page sections.
+- Built detailed Insights pages matching the main website.
+- Created an Insights listing with article cards and navigation.
+- Added contextual internal links and footer quick links.
+- Refined typography, FAQs and enquiry popup positioning.
+
+**Focus:** Website Development · Blog Architecture · Responsive UI · On-Page SEO
+
+[![View Website](https://img.shields.io/badge/View_Website-L%26T_Gurgaon-0284C7?style=for-the-badge)](https://larsentoubrogurgaon.com/)
+
+---
+
+### 🌸 Pardos Sakura — Project Website Enhancements
+
+Website and content improvements for a residential project,
+with consistent branding across project and Insights pages.
+
+**My contributions:**
+
+- Created a detailed floor-plan Insights page.
+- Matched the website's header, footer, colors and typography.
+- Added article links to the footer for easier discovery.
+- Worked on project content, page metadata and branding assets.
+- Maintained responsive layouts and enquiry elements.
+
+**Focus:** Responsive Development · Content Publishing · Internal Linking · SEO
+
+[![View Website](https://img.shields.io/badge/View_Website-Pardos_Sakura-0284C7?style=for-the-badge)](https://pardos-sakura.com/)
+
+---
+
+### 🏘️ JR Real Buildwell / Cocoa County — Project Pages
+
+Project-page development for a multi-project real estate website.
+
+**My contributions:**
+
+- Built the Cocoa County page with a hero image slider.
+- Added overview, amenities, highlights, pricing and location sections.
+- Created master-plan, floor-plan and FAQ sections.
+- Refined mobile buttons, information grids and navigation.
+- Added WhatsApp contact elements and a thank-you page.
+- Worked on shared enquiry-form email integration and SMTP troubleshooting.
+
+**Focus:** HTML · CSS · JavaScript · Mobile UX · Forms · Email Integration
+
+[![View Website](https://img.shields.io/badge/View_Website-JR_Real_Buildwell-0284C7?style=for-the-badge)](https://jrrealbuildwell.com/)
+
+---
+
+## 💼 Professional Experience
+
+### Absolute Assets
+**Digital Marketing Executive (SEO & Web Developer)**  
+*November 2025 - Present*
+
+Develop and maintain real estate websites, implement CMS features,
+improve technical SEO and manage website deployment.
+My role connects development with content publishing and lead-generation needs.
+
+### AGR Informatics
+**Web Developer**  
+*October 2024 - November 2025*
+
+Built full-stack applications using React.js, Node.js, Express.js and MongoDB.
+Developed REST APIs, responsive interfaces and frontend-backend integrations.
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications**  
+Galgotias College of Engineering & Technology  
+2022 - 2024 · CGPA: **7.7**
+
+**Bachelor of Computer Applications**  
+Makhanlal Chaturvedi National University of Journalism and Communication, Bhopal  
+2018 - 2021 · CGPA: **8.56**
+
+---
+
+## 🔍 My Approach
+
+- **Understand the requirement:** Connect page structure and functionality to user needs.
+- **Build reusable components:** Keep interfaces consistent and code maintainable.
+- **Design for mobile:** Make content, navigation and forms usable on smaller screens.
+- **Include SEO early:** Plan metadata, URLs, headings and internal links during development.
+- **Optimize delivery:** Improve images and investigate loading bottlenecks.
+- **Verify the experience:** Check layouts, links, forms and deployment behavior.
+
+---
+
+## 🤝 Connect With Me
+
+Interested in discussing web development, real estate platforms,
+custom CMS solutions or technical SEO?
+
+- **Email:** [rajatsuryavanshi404@gmail.com](mailto:rajatsuryavanshi404@gmail.com)
+- **LinkedIn:** [Rajat Kumar](https://www.linkedin.com/in/rajat-kumar-5b2504376)
+- **GitHub:** [Rajat-rj45](https://github.com/Rajat-rj45)
+
+<div align="center">
+
+---
+
+**Rajat Kumar**  
+Building useful websites with thoughtful design and maintainable code.
+
+</div>
