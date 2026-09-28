@@ -95,104 +95,116 @@ real estate websites and improving their content, functionality and search readi
 
 ## 🚀 Featured Projects
 
-### 🏢 Absolute Assets — Real Estate Platform & CMS
+My portfolio includes a full-stack real estate platform, company websites
+and dedicated project landing pages. These projects showcase my work in
+web development, responsive design, content organization and technical SEO.
 
-A full-stack real estate website with property discovery,
-project information, Insights content and an administrative CMS.
+### 01 · Absolute Assets
+**Real Estate Platform & Custom CMS**
 
-**My contributions:**
+A full-stack website with property listings, project pages, Insights
+and an administrative content management system.
 
-- Developed responsive property listings and project detail pages.
+- Developed responsive property listings and detailed project pages.
 - Built CMS workflows for properties, blogs, media and enquiries.
-- Added rich-text editors for property and blog content.
-- Implemented property subcategories, FAQs, search and filtering.
-- Added SEO tag management and editable content fields.
+- Added rich-text editors, property subcategories, FAQs and search filters.
+- Implemented editable SEO fields and internal linking.
 - Worked with PostgreSQL, Prisma and database migrations.
-- Implemented local image uploads with Sharp-based WebP processing.
-- Managed deployment and troubleshooting on an Ubuntu VPS.
+- Added local image uploads with Sharp-based WebP processing.
+- Managed Ubuntu VPS deployment using Nginx and PM2.
 
-**Stack:** Next.js · TypeScript · Tailwind CSS · PostgreSQL · Prisma · Auth.js · Nginx · PM2
+**Stack:** Next.js · TypeScript · Tailwind CSS · PostgreSQL · Prisma · Auth.js
 
 [![View Website](https://img.shields.io/badge/View_Website-Absolute_Assets-0284C7?style=for-the-badge)](https://absoluteassets.in/)
 
 ---
 
-### 🌿 AQVA The Reserve — Project Website & SEO
+### 02 · JR Real Buildwell
+**Company Website & Multiple Project Pages**
 
-A residential plotted-development website with project information,
-enquiry features and an Insights section.
+A company website presenting multiple real estate projects
+through dedicated pages and consistent navigation.
 
-**My contributions:**
+- Worked on project-page development and shared website components.
+- Organized project information for clear navigation and enquiry access.
+- Refined responsive layouts and mobile interactions.
+- Worked on a unified enquiry-form email system.
+- Troubleshot SMTP connectivity and authentication issues.
 
-- Developed responsive landing-page sections and a hero slider.
+**Focus:** Website Development · Responsive UI · Project Architecture · Form Integration
+
+[![View Website](https://img.shields.io/badge/View_Website-JR_Real_Buildwell-0284C7?style=for-the-badge)](https://jrrealbuildwell.com/)
+
+---
+
+### 03 · AQVA The Reserve
+**Project Website & Technical SEO**
+
+A plotted-development website combining project information,
+an Insights section and enquiry features.
+
+- Developed responsive sections and a hero image slider.
 - Added enquiry popups, WhatsApp CTAs and a thank-you page.
-- Created Insights pages with consistent navigation and styling.
-- Organized content around relevant search topics and keyword groups.
-- Implemented internal links, metadata, canonicals and sitemap updates.
+- Created Insights pages with consistent headers, footers and styling.
+- Organized content through keyword mapping and topic clusters.
+- Implemented metadata, canonicals, sitemap updates and internal links.
 - Improved image delivery and mobile presentation.
 
-**Focus:** HTML · CSS · JavaScript · Responsive Design · Technical SEO · Content Architecture
+**Focus:** HTML · CSS · JavaScript · Technical SEO · Content Architecture
 
 [![View Website](https://img.shields.io/badge/View_Website-AQVA_The_Reserve-0284C7?style=for-the-badge)](https://aqvathereserve.com/)
 
 ---
 
-### 🏙️ L&T Sector 86 Gurgaon — Project Website & Insights
+### 04 · Godrej Verano
+**Residential Project Website**
 
-A real estate project website combining project information,
-enquiry features and educational content.
+A website project for presenting Godrej Verano and its residential offering.
 
-**My contributions:**
+**Category:** Real Estate · Project Showcase
 
-- Developed and updated project content and responsive page sections.
-- Built detailed Insights pages matching the main website.
-- Created an Insights listing with article cards and navigation.
-- Added contextual internal links and footer quick links.
-- Refined typography, FAQs and enquiry popup positioning.
-
-**Focus:** Website Development · Blog Architecture · Responsive UI · On-Page SEO
-
-[![View Website](https://img.shields.io/badge/View_Website-L%26T_Gurgaon-0284C7?style=for-the-badge)](https://larsentoubrogurgaon.com/)
+<!-- Add the verified live website URL here. -->
 
 ---
 
-### 🌸 Pardos Sakura — Project Website Enhancements
+### 05 · Cocoa County
+**Dedicated Project Page · JR Real Buildwell**
 
-Website and content improvements for a residential project,
-with consistent branding across project and Insights pages.
+A dedicated project page within the JR Real Buildwell website,
+bringing project information and enquiry options into one experience.
 
-**My contributions:**
-
-- Created a detailed floor-plan Insights page.
-- Matched the website's header, footer, colors and typography.
-- Added article links to the footer for easier discovery.
-- Worked on project content, page metadata and branding assets.
-- Maintained responsive layouts and enquiry elements.
-
-**Focus:** Responsive Development · Content Publishing · Internal Linking · SEO
-
-[![View Website](https://img.shields.io/badge/View_Website-Pardos_Sakura-0284C7?style=for-the-badge)](https://pardos-sakura.com/)
-
----
-
-### 🏘️ JR Real Buildwell / Cocoa County — Project Pages
-
-Project-page development for a multi-project real estate website.
-
-**My contributions:**
-
-- Built the Cocoa County page with a hero image slider.
-- Added overview, amenities, highlights, pricing and location sections.
-- Created master-plan, floor-plan and FAQ sections.
+- Built a hero slider with project imagery.
+- Added overview, amenities, highlights and pricing sections.
+- Organized master plans, floor plans, location details and FAQs.
 - Refined mobile buttons, information grids and navigation.
 - Added WhatsApp contact elements and a thank-you page.
-- Worked on shared enquiry-form email integration and SMTP troubleshooting.
+- Integrated the page into the company's project structure.
 
-**Focus:** HTML · CSS · JavaScript · Mobile UX · Forms · Email Integration
+**Focus:** HTML · CSS · JavaScript · Mobile UX · Enquiry Flows
 
-[![View Website](https://img.shields.io/badge/View_Website-JR_Real_Buildwell-0284C7?style=for-the-badge)](https://jrrealbuildwell.com/)
+[![View Project](https://img.shields.io/badge/View_Project-Cocoa_County-0284C7?style=for-the-badge)](https://jrrealbuildwell.com/projects/cocoa-county/)
 
 ---
+
+### 06 · Experion
+**Residential Project Website**
+
+A website project for presenting Experion's residential offering.
+
+**Category:** Real Estate · Project Showcase
+
+<!-- Add the verified live website URL here. -->
+
+---
+
+### 07 · Preleased Properties
+**Property Website**
+
+A website project focused on preleased properties.
+
+**Category:** Real Estate · Preleased Properties
+
+<!-- Add the verified live website URL here. -->
 
 ## 💼 Professional Experience
 
